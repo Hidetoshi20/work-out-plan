@@ -1,88 +1,88 @@
-# Hidetoshi's Fitness & Diet Plan
+# Hidetoshi 的健身与饮食计划
 
-This repository contains the weekly training and diet plan for Hidetoshi.
+这里是为 Hidetoshi 定制的每周训练和饮食计划。
 
-# 📅 Weekly Training Schedule Overview
+# 📅 训练总览
 
-Here is your current **personal information and goals**, along with a **training plan outline** customized for you. The overall plan will focus on reducing body fat percentage, increasing strength, and developing physical fitness, while maintaining high adaptability.
+这是根据你的**个人情况与目标**，为你定制的**训练计划概要**。整体计划将围绕降低体脂率、提升力量、发展运动能力展开，并保持高度的计划适应性。
 
-👤 **Your Personal Information & Needs Overview**
+👤 **个人情况与需求总览**
 
-- **Height/Weight**: 184cm / 76kg, lean and tall body type
-- **Current Body Fat**: Approximately 20%, aiming to reduce to a leaner level (e.g., 15% or lower)
-- **Fitness Foundation**: You have some exercise experience and are capable of using gym equipment, home workouts, cycling, and running.
-- **Training Resources**:
-  - Access to a gym (machines + dumbbells + barbells)
-  - Yoga mat for home workouts
-  - Ability to cycle and run outdoors
-- **Core Goals**:
-  - **Reduce body fat percentage**
-  - **Improve overall athletic performance (strength + power + stability + cardio)**
-  - **Establish a long-term sustainable training habit**
+- **身高/体重**: 184cm / 76kg，身材偏瘦高类型。
+- **当前体脂**: 约 20%，目标是降低到更精干的水平 (如 15% 或更低)。
+- **运动基础**: 有一定的运动经验，能够使用健身房器械、进行家庭训练、骑行和跑步。
+- **训练资源**:
+  - 健身房 (器械 + 哑铃 + 杠铃)
+  - 家用瑜伽垫
+  - 户外骑行与跑步条件
+- **核心目标**:
+  - **降低体脂率**
+  - **提升综合运动表现 (力量 + 爆发力 + 稳定性 + 心肺)**
+  - **建立可长期持续的训练习惯**
 
-📅 **Weekly Training Schedule Overview (7-day cycle)**
+📅 **周度训练计划概览 (7天一循环)**
 
-| Day       | Training Content                  | Type                      |
-|-----------|-----------------------------------|---------------------------|
-| Monday    | Strength Training A (Full Body)   | Strength + Core           |
-| Tuesday   | Cardio HIIT (Interval Run/Bike)   | Cardio / High-Intensity   |
-| Wednesday | Strength Training B (Power + Upper Body) | Strength + Dynamic Control |
-| Thursday  | Core Training + Dynamic Stretching | Core + Recovery/Relaxation|
-| Friday    | Strength Training C (Unilateral + Balance) | Strength + Coordination   |
-| Saturday  | Strength Training D (Push-Pull)   | Advanced Strength         |
-| Sunday    | Steady-State Cardio (Bike/Hike)   | Cardio / Recovery         |
+| 星期      | 训练内容                        | 类型                  |
+|-----------|---------------------------------|-----------------------|
+| 周一      | 力量训练 A (全身)               | 力量 + 核心           |
+| 周二      | 有氧 HIIT (间歇跑/骑行)         | 心肺 / 高强度         |
+| 周三      | 力量训练 B (爆发力 + 上肢)      | 力量 + 动态控制       |
+| 周四      | 核心训练 + 动态拉伸             | 核心 + 恢复/放松      |
+| 周五      | 力量训练 C (单侧 + 平衡)        | 力量 + 协调           |
+| 周六      | 力量训练 D (推/拉分化)          | 进阶力量              |
+| 周日      | 稳态有氧 (骑行/徒步)            | 心肺 / 恢复           |
 
-🏋️‍♂️ **Strength Training Structure (A/B/C/D)**
+🏋️‍♂️ **力量训练结构 (A/B/C/D)**
 
-| Day | Core Content                      | Features                          |
-|-----|-----------------------------------|-----------------------------------|
-| A   | Squat, Bench Press, Row, Deadlift | Classic compound movements        |
-| B   | Jump Squat, Kettlebell Swing, Press| Power, dynamic control, shoulders |
-| C   | Single-Leg RDL, Lunge, Russian Twist| Stability, balance, core training |
-| D   | Pull-up/Row + Incline Press/Dips  | Upper body focus, weak points     |
+| 分化 | 核心内容                        | 特点                              |
+|------|---------------------------------|-----------------------------------|
+| A    | 深蹲、卧推、划船、硬拉          | 经典复合动作                      |
+| B    | 跳跃深蹲、壶铃摆荡、推举        | 爆发力、动态控制、肩部            |
+| C    | 单腿硬拉、弓箭步、俄罗斯转体    | 稳定性、平衡、核心                |
+| D    | 引体向上/划船 + 上斜推/双杠臂屈伸 | 上肢侧重，针对薄弱环节            |
 
-- **Session Duration**: Approx. 45–60 minutes
-- Includes warm-up, main workout, core work, and stretching.
+- **训练时长**: 约 45–60 分钟
+- 包含热身、主要训练、核心、拉伸。
 
-🏃‍♂️ **Cardio Training Structure**
+🏃‍♂️ **有氧训练结构**
 
-| Type          | Training Structure                          | Features                          |
-|---------------|---------------------------------------------|-----------------------------------|
-| HIIT Running  | 30s sprint + 90s jog, 8–10 rounds           | Fat burning, power, recovery      |
-| Hill Sprints  | Increasing/decreasing speed/incline         | Cardio, lactate threshold         |
-| Endurance Ride| 45–60 mins at moderate pace                 | Low-intensity fat burning         |
-| Cycling HIIT  | 1 min fast + 2 mins recovery, 8 rounds      | Climbing power, leg explosiveness |
-| Brisk Walk    | 45–60 mins, 60–70% HR max                   | Recovery, fat burning             |
+| 类型          | 训练结构                                | 特点                              |
+|---------------|-----------------------------------------|-----------------------------------|
+| HIIT 跑步     | 30秒冲刺 + 90秒慢跑，8–10 轮            | 燃脂、爆发力、恢复                |
+| 坡度跑        | 递增/递减速度/坡度                      | 心肺、乳酸阈                        |
+| 耐力骑行      | 45–60 分钟中等配速                      | 低强度燃脂                        |
+| 骑行 HIIT     | 1分钟快速 + 2分钟恢复，8轮              | 爬坡能力、腿部爆发力              |
+| 快走          | 45–60 分钟，60–70% 最大心率             | 恢复、燃脂                        |
 
-🧘‍♂️ **Core + Recovery (Thursday or Sunday)**
+🧘‍♂️ **核心 + 恢复 (周四或周日)**
 
-- Dead Bug, Bird-Dog, Russian Twist, Leg Raises, Pallof Press
-- Combined with Cat-Cow, Pigeon Pose, shoulder openers, spinal twists
-- Use a foam roller for hips, quads, calves, and back.
+- 死虫、鸟狗、俄罗斯转体、举腿、Pallof 按压
+- 配合猫牛式、鸽子式、开肩、脊柱扭转
+- 使用泡沫轴放松臀部、股四头、小腿、背部。
 
-🍽️ **Nutrition & Recovery Quick Guide**
+🍽️ **营养与恢复快速指引**
 
-- Maintain a **moderate calorie deficit (around 200–300 kcal)** daily.
-- High protein intake (target 1.8–2.2g/kg, approx. 140g/day).
-- **Sleep**: 7–8 hours per night for recovery and hormone regulation.
-- Every 4 weeks, take a **deload week** with reduced intensity.
+- 每日保持**适度热量缺口 (约 200–300 大卡)**。
+- 保证高蛋白摄入 (目标 1.8–2.2克/公斤体重，约 140克/天)。
+- **保证睡眠**: 每晚 7–8 小时，用于身体恢复和激素调节。
+- 每 4 周安排一次**减载周**，降低训练强度。
 
-## Weekly Training Schedule
+## 每周训练计划
 
-- **Monday**: [🏋️ Strength Training A: Foundational Strength Day](./hidetoshi/🏋️%20周一%20·%20力量训练%20A：基础力量强化日.md)
-- **Tuesday**: [🏃 Cardio Training: HIIT Run + Core](./hidetoshi/🏃%20周二%20·%20有氧训练：HIIT%20间歇跑%20+%20补充核心.md)
-- **Wednesday**: [🏋️ Strength Training B: Power + Shoulders + Core](./hidetoshi/🏋️%20周三%20·%20力量训练%20B：爆发力%20+%20肩部%20+核心强化.md)
-- **Thursday**: [🧘 Core Training + Dynamic Stretching Recovery Day](./hidetoshi/🧘%20周四%20·%20核心训练%20+%20动态拉伸恢复日.md)
-- **Friday**: [🏋️ Strength Training C: Unilateral Balance + Control Day](./hidetoshi/🏋️%20周五%20·%20力量训练%20C：单侧平衡%20+%20控制性训练日.md)
-- **Saturday**: [🏋️ Strength Training D: Push–Pull Upper Body Specialization Day](./hidetoshi/🏋️%20周六%20·%20力量训练%20D：Push–Pull%20上肢分化强化日.md)
-- **Sunday**: [🧘 Recovery Training + Stretching Day](./hidetoshi/🧘%20周日%20·%20恢复训练%20+%20拉伸恢复日.md)
+- **周一**: [🏋️ 力量训练 A：基础力量强化日](./🏋️%20周一%20·%20力量训练%20A：基础力量强化日.md)
+- **周二**: [🏃 有氧训练：HIIT 间歇跑 + 补充核心](./🏃%20周二%20·%20有氧训练：HIIT%20间歇跑%20+%20补充核心.md)
+- **周三**: [🏋️ 力量训练 B：爆发力 + 肩部 +核心强化](./🏋️%20周三%20·%20力量训练%20B：爆发力%20+%20肩部%20+核心强化.md)
+- **周四**: [🧘 核心训练 + 动态拉伸恢复日](./🧘%20周四%20·%20核心训练%20+%20动态拉伸恢复日.md)
+- **周五**: [🏋️ 力量训练 C：单侧平衡 + 控制性训练日](./🏋️%20周五%20·%20力量训练%20C：单侧平衡%20+%20控制性训练日.md)
+- **周六**: [🏋️ 力量训练 D：Push–Pull 上肢分化强化日](./🏋️%20周六%20·%20力量训练%20D：Push–Pull%20上肢分化强化日.md)
+- **周日**: [🧘 恢复训练 + 拉伸恢复日](./🧘%20周日%20·%20恢复训练%20+%20拉伸恢复日.md)
 
-## Diet Plan
+## 饮食计划
 
-In addition to training, a proper diet is crucial. My diet plan is documented here:
+除了训练，合理的饮食也至关重要。我的饮食计划记录在这里：
 
-- [🥗 Custom Diet Plan](./hidetoshi/🥗%20定制饮食方案.md)
+- [🥗 定制饮食方案](./🥗%20定制饮食方案.md)
 
 ---
 
-Stay consistent and healthy! 
+保持健康，坚持不懈！ 
