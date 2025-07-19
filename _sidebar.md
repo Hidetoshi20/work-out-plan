@@ -2,7 +2,7 @@
 
 ---
 
-- **Hidetoshi**
+- **<a href="#/hidetoshi/README.md" style="font-weight: bold;">👨‍💻 Hidetoshi's Plan</a>**
   - [**📅 训练总览**](./hidetoshi/README.md)
   - [**🥗 饮食方案**](./hidetoshi/🥗%20定制饮食方案.md)
   - **力量训练**
@@ -18,7 +18,7 @@
 
 ---
 
-- **Nevaeh**
+- **<a href="#/nevaeh/README.md" style="font-weight: bold;">👩‍💻 Nevaeh's Plan</a>**
   - [**📅 训练总览**](./nevaeh/README.md)
   - [🤸 周一 · 下肢 + 背部](./nevaeh/🤸%20周一%20·%20下肢%20+%20背部%20基础力量.md)
   - [🧘 周二 · 核心稳定](./nevaeh/🧘%20周二%20·%20核心稳定%20+%20姿态激活.md)
