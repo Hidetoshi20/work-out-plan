@@ -19,7 +19,7 @@
 git add .
 
 # 提交所有更改
-git commit -m "feat: Migrate to MkDocs with GitHub Actions deployment"
+git commit -m "refactor: Use GitHub Actions for deployment artifact"
 
 # 推送到 GitHub 的 main 分支
 git push
@@ -27,16 +27,14 @@ git push
 
 ### 第二步：在 GitHub 上启用 Pages
 
-推送代码后，GitHub Actions 会自动运行，并创建一个名为 `gh-pages` 的新分支，其中包含了构建好的静态网站文件。
+推送代码后，GitHub Actions 会自动运行，构建您的网站，并准备好部署。
 
-您需要配置 GitHub Pages 来使用这个分支：
+您需要配置 GitHub Pages 来使用 **GitHub Actions** 作为源：
 
 1.  打开您在 GitHub 上的项目主页。
 2.  点击顶部导航栏的 “Settings”。
 3.  在左侧菜单中，选择 “Pages”。
-4.  在 “Build and deployment” 部分，将 Source 设置为 “Deploy from a branch”。
-5.  在 “Branch” 部分，选择 `gh-pages` 分支和 `/(root)` 目录。
-6.  点击 “Save”。
+4.  在 “Build and deployment” 部分，将 Source 设置为 **“GitHub Actions”**。
 
 GitHub Pages 服务启动后，会提供一个网址，例如 `https://your-username.github.io/your-repo`。几分钟后，访问该网址，您就可以看到您的在线健身计划文档了。
 
