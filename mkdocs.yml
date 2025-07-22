@@ -1,24 +1,7 @@
 site_name: Work Out Plan
 theme:
   name: material
-nav:
-  - Home: index.md
-  - Hidetoshi:
-    - '介绍': 'hidetoshi/README.md'
-    - '周一 · 力量训练 A': 'hidetoshi/🏋️ 周一 · 力量训练 A：基础力量强化日.md'
-    - '周二 · 有氧训练': 'hidetoshi/🏃 周二 · 有氧训练：HIIT 间歇跑 + 补充核心.md'
-    - '周三 · 力量训练 B': 'hidetoshi/🏋️ 周三 · 力量训练 B：爆发力 + 肩部 +核心强化.md'
-    - '周四 · 核心训练 + 动态拉伸': 'hidetoshi/🧘 周四 · 核心训练 + 动态拉伸恢复日.md'
-    - '周五 · 力量训练 C': 'hidetoshi/🏋️ 周五 · 力量训练 C：单侧平衡 + 控制性训练日.md'
-    - '周六 · 力量训练 D': 'hidetoshi/🏋️ 周六 · 力量训练 D：Push–Pull 上肢分化强化日.md'
-    - '周日 · 恢复训练': 'hidetoshi/🧘 周日 · 恢复训练 + 拉伸恢复日.md'
-    - '饮食方案': 'hidetoshi/🥗 定制饮食方案.md'
-  - Nevaeh:
-    - '介绍': 'nevaeh/README.md'
-    - '周一 · 下肢 + 背部': 'nevaeh/🤸 周一 · 下肢 + 背部 基础力量.md'
-    - '周二 · 核心稳定': 'nevaeh/🧘 周二 · 核心稳定 + 姿态激活.md'
-    - '周三 · 全身循环': 'nevaeh/💨 周三 · 全身循环 + 呼吸配合.md'
-    - '周四 · 足弓 & 体态矫正': 'nevaeh/👣 周四 · 足弓 & 体态矫正.md'
-    - '周五 · 上肢 + 臀部': 'nevaeh/💪 周五 · 上肢 + 臀部 弹力带训练.md'
-    - '周六 · 核心强化': 'nevaeh/☯️ 周六 · 核心强化 + 太极简式.md'
-    - '周日 · 全身放松': 'nevaeh/🌿 周日 · 全身放松恢复 + 八段锦.md'
+plugins:
+  - search
+  - awesome-pages
+
