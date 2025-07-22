@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "c4571c7e48928093",
+    "type": "split",
+    "children": [
+      {
+        "id": "891e2d052592ac7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59fabde1ef77828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "98043a70f6bad01c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nevaeh/☯️ 周六 · 核心强化 + 太极简式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "☯️ 周六 · 核心强化 + 太极简式"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f6a92b82aa8c367",
+    "type": "split",
+    "children": [
+      {
+        "id": "145e113271e05e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37fb83f63b89c301",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "143156d9a1116dba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3533ed95d6f8567f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14c8d0c0d1bf6536",
+    "type": "split",
+    "children": [
+      {
+        "id": "d62b349ffaa35500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "712088b6ac10ce59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b111375a3788c042",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b2a5422f68a1ba05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87aa1ef8d82d52b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98043a70f6bad01c",
+  "lastOpenFiles": [
+    "index.html.tmp",
+    "nevaeh/👣 周四 · 足弓 & 体态矫正.md",
+    "nevaeh/💨 周三 · 全身循环 + 呼吸配合.md",
+    "nevaeh/💪 周五 · 上肢 + 臀部 弹力带训练.md",
+    "nevaeh/🌿 周日 · 全身放松恢复 + 八段锦.md",
+    "hidetoshi/🏋️ 周三 · 力量训练 B：爆发力 + 肩部 +核心强化.md",
+    "hidetoshi/🏋️ 周六 · 力量训练 D：Push–Pull 上肢分化强化日.md",
+    "nevaeh/☯️ 周六 · 核心强化 + 太极简式.md",
+    "nevaeh/👣 周四 · 足弓 & 体态矫C正.md",
+    "nevaeh/🧘 周二 · 核心稳定 + 姿态激活.md",
+    "nevaeh/🤸 周一 · 下肢 + 背部 基础力量.md",
+    "hidetoshi/🥗 定制饮食方案.md",
+    "nevaeh/README.md",
+    "favicon.svg",
+    "nevaeh/训练总览.md",
+    "hidetoshi/README.md",
+    "nevaeh/🥗 定制饮食方案.md",
+    "nevaeh/🏃 周二 · 有氧训练：HIIT 间歇跑 + 补充核心.md",
+    "nevaeh/🏋️ 周六 · 力量训练 D：Push–Pull 上肢分化强化日.md",
+    "nevaeh/🏋️ 周五 · 力量训练 C：单侧平衡 + 控制性训练日.md",
+    "nevaeh/🏋️ 周三 · 力量训练 B：爆发力 + 肩部 +核心强化.md",
+    "nevaeh/🏋️ 周一 · 力量训练 A：基础力量强化日.md",
+    "nevaeh/🧘 周日 · 恢复训练 + 拉伸恢复日.md",
+    "nevaeh/🧘 周四 · 核心训练 + 动态拉伸恢复日.md",
+    "hidetoshi/🧘 周日 · 恢复训练 + 拉伸恢复日.md",
+    "hidetoshi/🧘 周四 · 核心训练 + 动态拉伸恢复日.md",
+    "hidetoshi/🏋️ 周五 · 力量训练 C：单侧平衡 + 控制性训练日.md",
+    "hidetoshi",
+    "Untitled",
+    "nevaeh"
+  ]
+}
