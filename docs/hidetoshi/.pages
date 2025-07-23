@@ -1,12 +1,12 @@
 title: Hidetoshi
 nav:
-  - '介绍': README.md
-  - '周一': '🏋️ 周一 · 力量训练 A：基础力量强化日.md'
-  - '周二': '🏃 周二 · 有氧训练：HIIT 间歇跑 + 补充核心.md'
-  - '周三': '🏋️ 周三 · 力量训练 B：爆发力 + 肩部 +核心强化.md'
-  - '周四': '🧘 周四 · 核心训练 + 动态拉伸恢复日.md'
-  - '周五': '🏋️ 周五 · 力量训练 C：单侧平衡 + 控制性训练日.md'
-  - '周六': '🏋️ 周六 · 力量训练 D：Push–Pull 上肢分化强化日.md'
-  - '周日': '🧘 周日 · 恢复训练 + 拉伸恢复日.md'
-  - '饮食': '🥗 定制饮食方案.md'
+  - 'Introduction': README.md
+  - 'Monday': '🏋️ Monday · Strength Training A - Basic Strength Day.md'
+  - 'Tuesday': '🏃 Tuesday · Cardio - HIIT Intervals + Core.md'
+  - 'Wednesday': '🏋️ Wednesday · Strength Training B - Power + Shoulder + Core.md'
+  - 'Thursday': '🧘 Thursday · Core Training + Dynamic Stretching Recovery.md'
+  - 'Friday': '🏋️ Friday · Strength Training C - Unilateral Balance + Control.md'
+  - 'Saturday': '🏋️ Saturday · Strength Training D - Push-Pull Upper Split.md'
+  - 'Sunday': '🧘 Sunday · Recovery Training + Stretching Day.md'
+  - 'Nutrition': '🥗 定制饮食方案.md'
   - 'inBody test': 'inBody 2025.07.22 19:34.md'
