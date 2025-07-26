@@ -24,17 +24,21 @@
   - **提升综合运动表现 (力量 Strength + 爆发力 Power + 稳定性 Stability + 心肺 Cardio)**
   - **建立可长期持续的训练习惯**
 
-📅 **Weekly Training Plan Overview (7-day cycle)**
+📅 **Training Cycle Overview (9-day cycle)**
 
-| Day      | Training Content                | Type                  | Adjustment (2025.07.22)         |
-|----------|---------------------------------|-----------------------|-------------------------------|
-| Monday   | Strength Training A (Full Body) | Strength + Core       | Add 1-2 sets of core (Leg Raise/ Russian Twist) after main workout |
-| Tuesday  | Cardio: HIIT Intervals         | Cardio / High Intensity| HIIT 10–12 rounds, add 5–10 min core after |
-| Wednesday| Strength Training B (Power + Upper Body) | Strength + Dynamic Control | Add 1 set dynamic core (Kettlebell Side Bend/Side Plank) |
-| Thursday | Core Training + Dynamic Stretching (核心训练 Core Training + 动态拉伸 Dynamic Stretching) | Core + Recovery/Relax | Strengthen core + stretching + foam rolling |
-| Friday   | Strength Training C (Unilateral + Balance) | Strength + Coordination | Add 1 set core (Russian Twist/Leg Raise) |
-| Saturday | Strength Training D (Push–Pull Upper Split) | Advanced Strength | Add 1 set core (Pallof Press/Crunch) |
-| Sunday   | Steady Cardio (Cycling/Hiking) | Cardio / Recovery     | Cycling/Walking 60–75min + full body stretching + foam rolling |
+| 天数 Day | Training Content / 训练内容 | Type 类型 | Rest & Notes / 休息与备注 |
+|-----|------------------|------|--------------|
+| 1 | Strength Training A (Full Body 全身力量 A) | Strength + Core / 力量 + 核心 | Add 1–2 sets core (Leg Raise / Russian Twist) / 额外 1–2 组核心（举腿 / 俄罗斯转体） |
+| 2 | Cardio: HIIT Intervals + Core 心肺：HIIT 间歇跑 + 核心 | Cardio / High Intensity 有氧 / 高强度 | 10–12 rounds + 5–10 min core / 10–12 轮 + 5–10 分钟核心 |
+| 3 | Strength Training B (Power + Upper Body 爆发 + 上肢) | Strength + Power / 力量 + 爆发 | Dynamic core (Kettlebell Side Bend / Side Plank) / 动态核心（壶铃侧摆 / 侧平板） |
+| 4 | Active Recovery / Rest (Mobility & Stretch 主动恢复/拉伸) | Recovery 恢复 | Light yoga, foam rolling, brisk walk / 轻瑜伽、泡沫轴放松、快走 |
+| 5 | Core Training + Dynamic Stretching 核心训练 + 动态拉伸 | Core + Mobility / 核心 + 机动 | Focus on breathing, trunk stability / 专注呼吸，提升躯干稳定 |
+| 6 | Strength Training C (Unilateral + Balance 单侧+平衡) | Strength + Coordination / 力量 + 协调 | Add core (Russian Twist / Leg Raise) / 额外核心（俄罗斯转体/抬腿） |
+| 7 | Steady Cardio (Cycling / Hiking / Brisk Walk 稳态有氧：骑行/徒步/快走) | Cardio / Low Intensity 有氧 / 低强度 | 60–75 min at 60–70% max HR / 60–75 分钟，心率 60–70% 最大值 |
+| 8 | Strength Training D (Push–Pull Upper Split 推拉上肢分化) | Advanced Strength / 高级力量 | Add core (Pallof Press / Crunch) / 额外核心（Pallof 按压 / 卷腹） |
+| 9 | Full Rest Day (Passive 完全休息日) | Rest 休息 | Emphasize sleep & nutrition / 睡眠与营养优先 |
+
+> 完成第 9 天的休息后，再重新开始第 1 天，确保循环尾到循环头之间有充足恢复。
 
 🏋️‍♂️ **Strength Training Structure (A/B/C/D)**
 
@@ -72,15 +76,20 @@
 - **Sleep**: 7–8 hours/night for recovery and hormone regulation
 - Every 4 weeks, schedule a deload week (lower intensity)
 
-## Weekly Training Plan
 
-- **Monday**: [🏋️ Strength Training A: Basic Strength Day](./🏋️%20周一%20·%20力量训练%20A：基础力量强化日.md) (add core after main)
-- **Tuesday**: [🏃 Cardio: HIIT Intervals + Core](./🏃%20周二%20·%20有氧训练：HIIT%20间歇跑%20+%20补充核心.md) (more HIIT rounds + core)
-- **Wednesday**: [🏋️ Strength Training B: Power + Shoulder + Core](./🏋️%20周三%20·%20力量训练%20B：爆发力%20+%20肩部%20+核心强化.md) (add dynamic core)
-- **Thursday**: [🧘 Core Training + Dynamic Stretching Recovery](./🧘%20周四%20·%20核心训练%20+%20动态拉伸恢复日.md) (strengthen core + foam rolling)
-- **Friday**: [🏋️ Strength Training C: Unilateral Balance + Control](./🏋️%20周五%20·%20力量训练%20C：单侧平衡%20+%20控制性训练日.md) (add core)
-- **Saturday**: [🏋️ Strength Training D: Push–Pull Upper Split](./🏋️%20周六%20·%20力量训练%20D：Push–Pull%20上肢分化强化日.md) (add core)
-- **Sunday**: [🧘 Recovery Training + Stretching](./🧘%20周日%20·%20恢复训练%20+%20拉伸恢复日.md) (longer cardio + stretching + foam rolling)
+## Training Cycle Schedule (9-day)
+
+- **Day 1 / 第1天**: [🏋️ Strength Training A · Basic Strength Day](./🏋️%20Strength%20Training%20A%20-%20Basic%20Strength%20Day.md)
+- **Day 2 / 第2天**: [🏃 Cardio · HIIT Intervals + Core](./🏃%20Cardio%20-%20HIIT%20Intervals%20+%20Core.md)
+- **Day 3 / 第3天**: [🏋️ Strength Training B · Power + Shoulder + Core](./🏋️%20Strength%20Training%20B%20-%20Power%20+%20Shoulder%20+%20Core.md)
+- **Day 4 / 第4天**: [🧘 Active Recovery & Mobility Day](./🧘%20Active%20Recovery%20-%20Mobility%20&%20Stretch%20Day.md)
+- **Day 5 / 第5天**: [🧘 Core Training · Dynamic Stretching Recovery](./🧘%20Core%20Training%20+%20Dynamic%20Stretching%20Recovery.md)
+- **Day 6 / 第6天**: [🏋️ Strength Training C · Unilateral Balance + Control](./🏋️%20Strength%20Training%20C%20-%20Unilateral%20Balance%20+%20Control.md)
+- **Day 7 / 第7天**: Steady Cardio 稳态有氧 – Cycling / Hiking / Brisk Walk 骑行/徒步/快走 60–75 min，心率 60–70% 最大值
+- **Day 8 / 第8天**: [🏋️ Strength Training D · Push–Pull Upper Split](./🏋️%20Strength%20Training%20D%20-%20Push-Pull%20Upper%20Split.md)
+- **Day 9 / 第9天**: Full Rest Day – 充分休息，保证高质量睡眠
+
+> *备注*: 如果感觉疲劳累积，可在日程中额外插入恢复日（核心拉伸/轻量有氧），保证整体长期可持续性。
 
 ## Nutrition Plan
 
