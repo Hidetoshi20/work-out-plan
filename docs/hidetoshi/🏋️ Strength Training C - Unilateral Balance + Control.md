@@ -1,4 +1,4 @@
-# 🏋️ Friday · Strength Training C: Unilateral Balance + Control
+# 🏋️ Strength Training C: Unilateral Balance + Control
 
 ## 🎯 Training Goals
 

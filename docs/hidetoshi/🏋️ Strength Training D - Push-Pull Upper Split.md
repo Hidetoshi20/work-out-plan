@@ -1,4 +1,4 @@
-# 🏋️ Saturday · Strength Training D: Push–Pull Upper Split
+# 🏋️ Strength Training D: Push–Pull Upper Split
 
 ## 🎯 Training Goals
 

@@ -1,4 +1,4 @@
-# 🏋️ Wednesday · Strength Training B: Power + Shoulder + Core
+# 🏋️ Strength Training B: Power + Shoulder + Core
 
 ## 🎯 Training Goals
 

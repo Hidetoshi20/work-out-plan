@@ -1,4 +1,4 @@
-# 🏋️ Monday · Strength Training A: Basic Strength Day
+# 🏋️ Strength Training A: Basic Strength Day
 
 ## 🎯 Training Goals
 

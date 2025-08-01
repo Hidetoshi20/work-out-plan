@@ -85,7 +85,7 @@
 - **Day 4 / 第4天**: [🧘 Active Recovery & Mobility Day](./🧘%20Active%20Recovery%20-%20Mobility%20&%20Stretch%20Day.md)
 - **Day 5 / 第5天**: [🧘 Core Training · Dynamic Stretching Recovery](./🧘%20Core%20Training%20+%20Dynamic%20Stretching%20Recovery.md)
 - **Day 6 / 第6天**: [🏋️ Strength Training C · Unilateral Balance + Control](./🏋️%20Strength%20Training%20C%20-%20Unilateral%20Balance%20+%20Control.md)
-- **Day 7 / 第7天**: Steady Cardio 稳态有氧 – Cycling / Hiking / Brisk Walk 骑行/徒步/快走 60–75 min，心率 60–70% 最大值
+- **Day 7 / 第7天**: [🚶 Steady Cardio · Endurance & Recovery](./🚶%20Steady%20Cardio%20-%20Endurance%20&%20Recovery.md)
 - **Day 8 / 第8天**: [🏋️ Strength Training D · Push–Pull Upper Split](./🏋️%20Strength%20Training%20D%20-%20Push-Pull%20Upper%20Split.md)
 - **Day 9 / 第9天**: Full Rest Day – 充分休息，保证高质量睡眠
 

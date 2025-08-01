@@ -1,4 +1,4 @@
-# 🏃 Tuesday · Cardio: HIIT Intervals + Core
+# 🏃 Cardio: HIIT Intervals + Core
 
 ## 🎯 Training Goals
 

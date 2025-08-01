@@ -1,4 +1,4 @@
-# 🧘 Thursday · Core Training + Dynamic Stretching Recovery
+# 🧘 Core Training + Dynamic Stretching Recovery
 
 ## 🎯 Training Goals
 
