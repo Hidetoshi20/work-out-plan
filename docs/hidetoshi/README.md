@@ -40,34 +40,6 @@
 
 > 完成第 9 天的休息后，再重新开始第 1 天，确保循环尾到循环头之间有充足恢复。
 
-🏋️‍♂️ **Strength Training Structure (A/B/C/D)**
-
-| Split | Main Content                        | Features                              |
-|-------|-------------------------------------|---------------------------------------|
-| A     | Squat, Bench Press, Row, Deadlift   | Classic compound movements            |
-| B     | Jump Squat, Kettlebell Swing, Press | Power, dynamic control, shoulders     |
-| C     | Single-leg RDL, Lunge, Russian Twist| Stability, balance, core              |
-| D     | Pull-up/Row + Incline Press/Dip     | Upper body focus, weak point targeting|
-
-- **Duration**: 45–60 min
-- Includes warm-up, main workout, core, stretching.
-
-🏃‍♂️ **Cardio Structure**
-
-| Type          | Structure                                | Features                              | Adjustment |
-|---------------|------------------------------------------|---------------------------------------|-----------|
-| HIIT Running  | 30s sprint + 90s jog, 10–12 rounds       | Fat burning, power, recovery          | More rounds|
-| Hill Run      | Increasing/decreasing speed/incline      | Cardio, lactate threshold             |           |
-| Endurance Cycling | 60–75 min moderate pace               | Low intensity fat burning             | Longer     |
-| Cycling HIIT  | 1min fast + 2min recovery, 8 rounds     | Climbing ability, leg power           |           |
-| Brisk Walk    | 60–75 min, 60–70% max HR                | Recovery, fat burning                 | Longer     |
-
-🧘‍♂️ **Core + Recovery (Thursday or Sunday)**
-
-- Dead Bug（死虫式 Dead Bug）, Bird Dog（鸟狗式 Bird Dog）, Russian Twist（俄罗斯转体 Russian Twist）, Leg Raise（举腿 Leg Raise）, Pallof Press（Pallof 按压）
-- With Cat-Cow（猫牛式 Cat-Cow）, Pigeon Pose（鸽子式 Pigeon Pose）, Shoulder Opener, Spinal Twist
-- Use foam roller to relax glutes, quads, calves, back, **focus on trunk**.
-
 🍽️ **Nutrition & Recovery Quick Guide**
 
 - Maintain a moderate calorie deficit (200–300 kcal/day)
