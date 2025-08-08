@@ -43,6 +43,13 @@
 
 > 【2025.07微调】After main workout, add 1–2 sets of Leg Raise or Russian Twist to strengthen core, target trunk fat.
 
+### 🔼 腹部强化进阶（替换或追加 1 项）
+
+- Hanging Knee/Leg Raise 悬垂抬膝/抬腿 → Toes-to-Bar：3 × 8–12，骨盆后倾、无摆动
+- Ab Wheel Rollout 轮式前伸（膝→脚）/ TRX Fallout：3 × 6–10，抗伸展，腰椎不塌陷
+- RKC Plank RKC 高张力平板：3 × 20–30s，腹压高张力维持
+- Cable Crunch 高位绳索卷腹（中等偏重）：3 × 12–15，保持脊柱屈曲、髋不前后摆
+
 ---
 
 ## 4️⃣ Stretching & Cool Down 拉伸与冷却（about 10 min）

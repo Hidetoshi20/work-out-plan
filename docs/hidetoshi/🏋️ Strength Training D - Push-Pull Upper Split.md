@@ -67,6 +67,13 @@
 
 > 【2025.07微调】Accessory work must include Pallof Press and Crunch to strengthen core and target trunk fat.
 
+### 🔼 腹部强化进阶（替换或追加 1 项）
+
+- Ab Wheel Rollout / TRX Fallout 轮式前伸 / TRX 前伸：3 × 6–10，抗伸展，腹压稳定
+- Hanging Knee/Leg Raise 悬垂抬膝/抬腿：3 × 8–12，无摆动，骨盆后倾
+- Cable Crunch 绳索卷腹：3 × 12–15，中等偏重，保持屈曲轨迹
+- Stir-the-Pot 瑞士球画圈：3 × 20–30s，肘压球，骨盆不晃动
+
 ---
 
 ## 4️⃣ Stretch & Cool Down 拉伸收尾（8–10 min）

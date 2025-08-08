@@ -56,6 +56,13 @@
 
 > 【2025.07微调】After main workout, add kettlebell side bend or side plank to enhance dynamic core ability.
 
+### 🔼 腹部强化进阶（替换或追加 1 项）
+
+- Hanging Knee/Leg Raise 悬垂抬膝/抬腿：3 × 8–12，下腹为主，控制骨盆后倾
+- RKC Plank RKC 高张力平板：3 × 20–30s，高张力抗伸展
+- Cable Crunch 绳索卷腹：3 × 12–15，中等偏重，保持屈曲轨迹
+- Hollow Body Rock 空心摇摆：3 × 20–30次，腰背贴地
+
 ---
 
 ## 4️⃣ Stretch & Cool Down 拉伸收尾（8–10 min）

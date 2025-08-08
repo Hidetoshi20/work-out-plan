@@ -72,6 +72,13 @@ Choose 2–3 exercises to strengthen lower abs and obliques:
 
 > 【2025.07微调】After main workout, add plank, dead bug, etc. to strengthen core and trunk control.
 
+### 🔼 腹部强化进阶（替换或追加 1 项）
+
+- Hanging Knee/Leg Raise 悬垂抬膝/抬腿 → Toes-to-Bar：3 × 8–12，骨盆后倾、无摆动
+- Ab Wheel Rollout 轮式前伸（膝→脚）：3 × 6–10，抗伸展，腰椎不塌陷
+- Hollow Body Hold / Rock 空心支撑/摇摆：3 × 30–40s，腰背贴地、肋骨下压
+- Reverse Crunch 反向卷腹：3 × 12–15，慢离心、控制骨盆后倾
+
 ---
 
 ## 4️⃣ Cool Down & Stretch 冷却+拉伸（5–7 min）

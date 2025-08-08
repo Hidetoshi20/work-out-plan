@@ -52,6 +52,13 @@
 
 > 【2025.07微调】After main workout, add Pallof Press and Russian Twist to strengthen anti-rotation and lateral core.
 
+### 🔼 腹部强化进阶（替换或追加 1 项）
+
+- Copenhagen Side Plank 哥本哈根侧支撑（膝→脚）：2–3 × 20–30s/side，腹斜肌主导
+- Pallof Press Press-out + ISO 抗旋外推+静止：3 × 8–10/side（每次静止2s），抗旋转
+- Cable Lift / Chop 斜向拉升/下劈：3 × 10–12/side，腹斜肌为主，骨盆中立
+- Side Plank with Hip Hike 侧支撑+骨盆上提：3 × 10–12/side，控制侧链
+
 ---
 
 ## 4️⃣ Stretch & Cool Down 拉伸收尾（8–10 min）
