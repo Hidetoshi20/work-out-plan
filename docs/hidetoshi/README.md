@@ -28,12 +28,12 @@
 
 | Day | 内容 | 类型 | 备注 |
 |-----|------|------|-----|
-| Mon | Upper Push（胸/前三角/肱三）+ Core | Strength | 结束 5–8 分钟核心（Pallof / Dead Bug） |
-| Tue | Lower 1（深蹲/股四主导）+ Hip Hinge 技术 | Strength | 选择深蹲主项，硬拉做技术轻量 3×3 |
-| Wed | 休息 / 轻度机动性 | Recovery | 关节活动度 + 10–20 分钟舒缓步行 |
-| Thu | Upper Pull（背/后束/肱二）+ Core | Strength | 结束 5–8 分钟核心（Side Plank / Anti-rotation） |
-| Fri | Lower 2（硬拉/后侧链主导）+ 辅助 | Strength | 罗马尼亚硬拉/臀腿，避免与 Tue 动作完全重叠 |
-| Sat | LISS 稳态有氧（可选） | Cardio | 30–45 分钟，心率 60–70% HRmax |
+| Mon | [Upper Push（胸/前三角/肱三）+ Core](./🏋️%20Upper%20Push%20Day.md) | Strength | 结束 5–8 分钟核心（Pallof / Dead Bug） |
+| Tue | [Lower 1（深蹲/股四主导）+ 技术](./🏋️%20Lower%201%20-%20Squat%20Focus.md) | Strength | 深蹲主项，硬拉技术轻量 3×3 |
+| Wed | [主动恢复/灵活性](./🧘%20Active%20Recovery%20-%20Mobility%20&%20Stretch%20Day.md) | Recovery | 机动性 + 轻度步行 |
+| Thu | [Upper Pull（背/后束/肱二）+ Core](./🏋️%20Upper%20Pull%20Day.md) | Strength | 结束 5–8 分钟核心 |
+| Fri | [Lower 2（硬拉/后侧链主导）](./🏋️%20Lower%202%20-%20Hinge%20&%20Posterior%20Chain.md) | Strength | 避免与 Tue 动作完全重叠 |
+| Sat | 可选：[LISS 稳态有氧](./🚶%20Steady%20Cardio%20-%20LISS%20(Optional).md) / [短HIIT](./🏃%20Cardio%20-%20Short%20HIIT%20+%20Optional%20Core.md) | Cardio | 30–45 min，心率 60–70% HRmax |
 | Sun | 完全休息 | Rest | 睡眠与营养优先 |
 
 > 说明：将“功能性/单侧/平衡/核心”整合为每次力量训练的热身与收尾模块（各 5–10 分钟），不再单独占一天；仅保留 0–1 天低强度有氧，符合当前无球类运动的情况。
@@ -57,8 +57,8 @@
 - Day 7 Sun: 完全休息
 
 > Links（可结合现有训练页使用）：
-> - Lower 参考：`🏋️ Strength Training A - Basic Strength Day.md`
-> - Push/Pull 可参考：`🏋️ Strength Training D - Push-Pull Upper Split.md`（拆分使用其 Push 或 Pull 组）
+> - Lower 参考：`🏋️ Upper Push Day.md` / `🏋️ Upper Pull Day.md`
+> - Lower 参考：`🏋️ Lower 1 - Squat Focus.md` / `🏋️ Lower 2 - Hinge & Posterior Chain.md`
 > - 恢复日参考：`🧘 Active Recovery - Mobility & Stretch Day.md`
 
 ## Rationale · 计划调整与答疑
