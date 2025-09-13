@@ -12,7 +12,7 @@
 
 | Exercise 动作                     | Reps/Time | Notes |
 |----------------------------------|-----------|-------|
-| Dynamic Squat + Hip Opener 动态深蹲+髋环绕 | 12 reps + 10/side | 激活髋与股四 |
+| Dynamic Bodyweight Squat + Hip Opener（动态徒手深蹲 + 髋环绕） | 12 reps + 10/side | 激活髋与股四 |
 | Ankle/Calf Mobilization 踝/小腿活动 | 40–60s   | 下蹲深度与稳定 |
 | Breathing + Bracing 呼吸与腹压       | 4 × 4–6s | 建立腹压与中立位 |
 
@@ -22,10 +22,10 @@
 
 | Exercise 动作                         | Sets × Reps | Notes/Focus 说明 |
 |--------------------------------------|-------------|------------------|
-| ✅ Barbell Back/Front Squat 背/前蹲       | 4 × 6–8     | 平稳下蹲，膝跟足同向，深度至平行或以下 |
-| ✅ Leg Press 腿举                       | 3 × 10–12   | 全程受控，顶端不过伸 |
+| ✅ Back/Front Squat（高/低杠背蹲 / Front Rack 前蹲） | 4 × 6–8     | 平稳下蹲，膝跟足同向，深度至平行或以下 |
+| ✅ 45° Sled Leg Press（斜板腿举）        | 3 × 10–12   | 全程受控，顶端不过伸 |
 | ✅ Bulgarian Split Squat 保加利亚分腿蹲    | 3 × 8–10/side | 躯干直立，前脚全脚掌用力 |
-| ✅ Leg Extension/Step-up 伸膝/登台         | 2–3 × 12    | 选择其一，感受股四发力 |
+| ✅ Leg Extension（Knee Extension Machine，伸膝） / Box Step-up（登台） | 2–3 × 12    | 选择其一，感受股四发力 |
 
 ---
 
