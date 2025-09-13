@@ -72,3 +72,14 @@
 ---
 
 Stay healthy and keep going! 
+
+## 🧾 Training Quality Log
+
+- 模板：见 `docs/hidetoshi/📓 Training Quality Log Template.md`
+- 使用方式：
+  - 每次训练前后，按模板快速填写“准备度 → 训练过程 → 质量评估 → 负荷与恢复”。
+  - 建议按月集中记录，例如在 `docs/hidetoshi/logs/2025-09.md` 中按日期追加。
+  - 力量部分尽量记录“顶组 + 回退组”、RPE/RIR、节奏/深度与技术要点；有氧记录时长/距离/心率/主观强度。
+- 节奏与强度建议：
+  - 每 4 周做一次回顾（可结合 inBody/围度/照片），必要时安排 Deload 周（降低强度/容量）。
+  - 日常用 sRPE x 时长（分钟）计算“当次训练负荷”，便于对比不同类型训练。
