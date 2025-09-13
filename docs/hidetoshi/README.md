@@ -24,21 +24,19 @@
   - **提升综合运动表现 (力量 Strength + 爆发力 Power + 稳定性 Stability + 心肺 Cardio)**
   - **建立可长期持续的训练习惯**
 
-📅 **Training Cycle Overview (9-day cycle)**
+📅 **Weekly Plan (7-day)**
 
-| 天数 Day | Training Content / 训练内容 | Type 类型 | Rest & Notes / 休息与备注 |
-|-----|------------------|------|--------------|
-| 1 | Strength Training A (Full Body 全身力量 A) | Strength + Core / 力量 + 核心 | Add 1–2 sets core (Leg Raise / Russian Twist) / 额外 1–2 组核心（举腿 / 俄罗斯转体） |
-| 2 | Cardio: HIIT Intervals + Core 心肺：HIIT 间歇跑 + 核心 | Cardio / High Intensity 有氧 / 高强度 | 10–12 rounds + 5–10 min core / 10–12 轮 + 5–10 分钟核心 |
-| 3 | Strength Training B (Power + Upper Body 爆发 + 上肢) | Strength + Power / 力量 + 爆发 | Dynamic core (Kettlebell Side Bend / Side Plank) / 动态核心（壶铃侧摆 / 侧平板） |
-| 4 | Active Recovery / Rest (Mobility & Stretch 主动恢复/拉伸) | Recovery 恢复 | Light yoga, foam rolling, brisk walk / 轻瑜伽、泡沫轴放松、快走 |
-| 5 | Core Training + Dynamic Stretching 核心训练 + 动态拉伸 | Core + Mobility / 核心 + 机动 | Focus on breathing, trunk stability / 专注呼吸，提升躯干稳定 |
-| 6 | Strength Training C (Unilateral + Balance 单侧+平衡) | Strength + Coordination / 力量 + 协调 | Add core (Russian Twist / Leg Raise) / 额外核心（俄罗斯转体/抬腿） |
-| 7 | Steady Cardio (Cycling / Hiking / Brisk Walk 稳态有氧：骑行/徒步/快走) | Cardio / Low Intensity 有氧 / 低强度 | 60–75 min at 60–70% max HR / 60–75 分钟，心率 60–70% 最大值 |
-| 8 | Strength Training D (Push–Pull Upper Split 推拉上肢分化) | Advanced Strength / 高级力量 | Add core (Pallof Press / Crunch) / 额外核心（Pallof 按压 / 卷腹） |
-| 9 | Full Rest Day (Passive 完全休息日) | Rest 休息 | Emphasize sleep & nutrition / 睡眠与营养优先 |
+| Day | 内容 | 类型 | 备注 |
+|-----|------|------|-----|
+| Mon | Upper Push（胸/前三角/肱三）+ Core | Strength | 结束 5–8 分钟核心（Pallof / Dead Bug） |
+| Tue | Lower 1（深蹲/股四主导）+ Hip Hinge 技术 | Strength | 选择深蹲主项，硬拉做技术轻量 3×3 |
+| Wed | 休息 / 轻度机动性 | Recovery | 关节活动度 + 10–20 分钟舒缓步行 |
+| Thu | Upper Pull（背/后束/肱二）+ Core | Strength | 结束 5–8 分钟核心（Side Plank / Anti-rotation） |
+| Fri | Lower 2（硬拉/后侧链主导）+ 辅助 | Strength | 罗马尼亚硬拉/臀腿，避免与 Tue 动作完全重叠 |
+| Sat | LISS 稳态有氧（可选） | Cardio | 30–45 分钟，心率 60–70% HRmax |
+| Sun | 完全休息 | Rest | 睡眠与营养优先 |
 
-> 完成第 9 天的休息后，再重新开始第 1 天，确保循环尾到循环头之间有充足恢复。
+> 说明：将“功能性/单侧/平衡/核心”整合为每次力量训练的热身与收尾模块（各 5–10 分钟），不再单独占一天；仅保留 0–1 天低强度有氧，符合当前无球类运动的情况。
 
 🍽️ **Nutrition & Recovery Quick Guide**
 
@@ -48,20 +46,30 @@
 - **Sleep**: 7–8 hours/night for recovery and hormone regulation
 - Every 4 weeks, schedule a deload week (lower intensity)
 
+## Weekly Schedule (7-day)
 
-## Training Cycle Schedule (9-day)
+- Day 1 Mon: Upper Push（卧推/肩推/双杠臂屈伸/俯卧撑变式）+ 核心收尾 5–8 分钟
+- Day 2 Tue: Lower 1（背蹲/前蹲/腿举 + 辅助）+ 轻量硬拉技术 3×3
+- Day 3 Wed: 主动恢复（灵活性/拉伸）或完全休息
+- Day 4 Thu: Upper Pull（引体/划船/下拉/后束/二头）+ 核心 5–8 分钟
+- Day 5 Fri: Lower 2（硬拉/罗马尼亚硬拉/臀桥/腿弯举）
+- Day 6 Sat: 稳态有氧（骑行/快走 30–45 分）— 可选
+- Day 7 Sun: 完全休息
 
-- **Day 1 / 第1天**: [🏋️ Strength Training A · Basic Strength Day](./🏋️%20Strength%20Training%20A%20-%20Basic%20Strength%20Day.md)
-- **Day 2 / 第2天**: [🏃 Cardio · HIIT Intervals + Core](./🏃%20Cardio%20-%20HIIT%20Intervals%20+%20Core.md)
-- **Day 3 / 第3天**: [🏋️ Strength Training B · Power + Shoulder + Core](./🏋️%20Strength%20Training%20B%20-%20Power%20+%20Shoulder%20+%20Core.md)
-- **Day 4 / 第4天**: [🧘 Active Recovery & Mobility Day](./🧘%20Active%20Recovery%20-%20Mobility%20&%20Stretch%20Day.md)
-- **Day 5 / 第5天**: [🧘 Core Training · Dynamic Stretching Recovery](./🧘%20Core%20Training%20+%20Dynamic%20Stretching%20Recovery.md)
-- **Day 6 / 第6天**: [🏋️ Strength Training C · Unilateral Balance + Control](./🏋️%20Strength%20Training%20C%20-%20Unilateral%20Balance%20+%20Control.md)
-- **Day 7 / 第7天**: [🚶 Steady Cardio · Endurance & Recovery](./🚶%20Steady%20Cardio%20-%20Endurance%20&%20Recovery.md)
-- **Day 8 / 第8天**: [🏋️ Strength Training D · Push–Pull Upper Split](./🏋️%20Strength%20Training%20D%20-%20Push-Pull%20Upper%20Split.md)
-- **Day 9 / 第9天**: Full Rest Day – 充分休息，保证高质量睡眠
+> Links（可结合现有训练页使用）：
+> - Lower 参考：`🏋️ Strength Training A - Basic Strength Day.md`
+> - Push/Pull 可参考：`🏋️ Strength Training D - Push-Pull Upper Split.md`（拆分使用其 Push 或 Pull 组）
+> - 恢复日参考：`🧘 Active Recovery - Mobility & Stretch Day.md`
 
-> *备注*: 如果感觉疲劳累积，可在日程中额外插入恢复日（核心拉伸/轻量有氧），保证整体长期可持续性。
+## Rationale · 计划调整与答疑
+
+1) 是否应减少功能性训练？
+- 结论：是。将功能性/单侧/平衡/核心拆成“每次力量训练的暖身与收尾（各 5–10 分钟）”，不作为独立训练日。这样你每周的“功能性量”仍有，但不抢占正经力量训练时间。
+
+2) 周一全身 + 周四上身是否过多、影响连续力量？
+- 结论：拆分更优。改为 Push / Lower / Rest / Pull / Lower 的顺序，肌群重叠度低，可以实现周内连续的力量训练，同时给关键肌群 48–72 小时恢复。上身 Push 与 Pull 分天后，胸/前三角/三头 与 背/后束/二头 互不干扰。
+
+> 执行提示：每次训练控制主项 1 个（3–5 组），次要复合 1–2 个（3–4 组），孤立 2 个（2–3 组），结束 5–8 分钟核心；总时长 60–75 分钟。
 
 ## Nutrition Plan
 

@@ -1,10 +1,12 @@
-# 🧘 Active Recovery & Mobility Day / 主动恢复与灵活性日
+# 🧘 Active Recovery & Mobility Day / 主动恢复与灵活性日（周三）
 
 ## 🎯 Goals 目标
 
 - Promote blood flow, enhance joint mobility, release fascia（促进血液循环，提升关节活动度，放松筋膜）
 - Speed up recovery and reduce muscle soreness after strength or cardio phases（加速恢复，降低肌肉酸痛）
 - Reinforce breathing control and mind-body connection（强化呼吸控制与身心连接）
+
+> 备注：本日为周三的恢复日，可根据疲劳状况适当缩短或仅做 1–2 个模块。
 
 ---
 
@@ -50,7 +52,7 @@ Follow the flow continuously, hold each posture 30–40 s（每个姿势保持 3
 
 ## 5️⃣ Optional Light Cardio 可选轻度有氧 (15–20 min)
 
-Choose one（任选其一）:
+Choose one（任选其一）：
 
 - Brisk Walk 快走 4–5 km/h
 - Easy Cycling 轻松骑行 RPE 3–4
