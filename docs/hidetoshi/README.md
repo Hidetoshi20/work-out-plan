@@ -69,6 +69,14 @@
 
 - [🥗 Custom Nutrition Plan](./🥗%20定制饮食方案.md)
 
+## 📊 Test Results
+
+定期进行身体成分测试，跟踪训练效果和身体变化：
+
+- [📈 InBody Test Results](./test-results/README.md) - 体脂测试结果概览
+  - [2025.07.22 基线测试](./test-results/inBody%202025.07.22%2019:34.md)
+  - [2025.09.13 复查结果](./test-results/inBody%202025.09.13.md)
+
 ---
 
 Stay healthy and keep going! 
