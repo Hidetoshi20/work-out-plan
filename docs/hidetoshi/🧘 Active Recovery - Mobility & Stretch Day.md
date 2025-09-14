@@ -1,4 +1,4 @@
-# 🧘 Active Recovery & Mobility Day / 主动恢复与灵活性日（周三）
+# 🧘 Active Recovery - Mobility & Stretch Day（周三）
 
 ## 🎯 Goals 目标
 

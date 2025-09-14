@@ -1,4 +1,4 @@
-# 🏃 Cardio: HIIT Intervals + Core
+# 🏃 Cardio - Short HIIT + Optional Core
 
 ## 🎯 Training Goals
 

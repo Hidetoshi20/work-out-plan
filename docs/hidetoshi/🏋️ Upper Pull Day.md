@@ -1,4 +1,4 @@
-# 🏋️ Strength Training D: Upper Pull Day
+# 🏋️ Upper Pull Day
 
 ## 🎯 Training Goals
 

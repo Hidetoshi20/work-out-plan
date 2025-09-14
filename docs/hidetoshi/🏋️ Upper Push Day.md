@@ -1,4 +1,4 @@
-# 🏋️ Strength Training A: Upper Push Day
+# 🏋️ Upper Push Day
 
 ## 🎯 Training Goals
 

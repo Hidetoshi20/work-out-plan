@@ -1,4 +1,4 @@
-# 🚶 Steady Cardio: Endurance & Recovery（周六可选）
+# 🚶 Steady Cardio - LISS (Optional)
 
 ## 🎯 Training Goals
 

@@ -1,4 +1,4 @@
-# 🏋️ Strength Training B: Lower 2 · Hinge & Posterior Chain
+# 🏋️ Lower 2 - Hinge & Posterior Chain
 
 ## 🎯 Training Goals
 

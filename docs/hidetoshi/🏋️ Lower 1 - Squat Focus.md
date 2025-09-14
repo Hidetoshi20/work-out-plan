@@ -1,4 +1,4 @@
-# 🏋️ Strength Training C: Lower 1 · Squat Focus
+# 🏋️ Lower 1 - Squat Focus
 
 ## 🎯 Training Goals
 

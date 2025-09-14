@@ -1,4 +1,4 @@
-# 🧘 Core Training + Dynamic Stretching (Optional Protocol)
+# 🧘 Core + Stretch - Optional Protocol
 
 本页为“可选核心+拉伸”方案：若在力量日未完成核心收尾，可使用本页（20–30 分钟）快速补齐。
 
