@@ -16,6 +16,12 @@
 | Ankle/Calf Mobilization 踝/小腿活动 | 40–60s   | 下蹲深度与稳定 |
 | Breathing + Bracing 呼吸与腹压       | 4 × 4–6s | 建立腹压与中立位 |
 
+→ 也可在下列“热身方案”中选一个（6–8 分钟）：
+
+- 方案 A（踝髋优先）：踝泵/墙蹲 40s → 动态深蹲 12 → 髋环绕 10/侧 → 呼吸与腹压 4×4s
+- 方案 B（膝关节准备）：台阶踏步 12/侧 → 侧向弹力带走 12/侧 → 股四等长靠墙静蹲 30s → 动态深蹲 8
+- 方案 C（全身）：开合跳 30s → 高脚杯深蹲轻重量 10 → 髋屈伸早安式 10 → 踝小腿拉伸 30s/侧
+
 ---
 
 ## 2️⃣ Main Workout 主训练（Squat Chain）
@@ -41,8 +47,25 @@
 
 ## 4️⃣ Core Finisher 核心（5–8 min）
 
-- Side Plank 侧桥：30–40s/side × 2–3
-- Anti-rotation Walkout 抗旋走出：8–10/side × 2
+从下列选 2–3 个，做 2–3 轮：
+
+- McGill Curl-up 麦吉尔仰卧卷腹：8–10 次（保持中立）
+- Side Plank 侧桥：30–40s/side
+- Bird-dog 鸟狗：8–10/side（停留 2s）
+- Anti-rotation Walkout 抗旋走出：8–10/side
+- Heel Tap Dead Bug 脚跟点地死虫：10/side
+
+---
+
+## 5️⃣ Stretch & Cool Down 拉伸（5–8 min）
+
+每个 30–40s，选 3–4 个：
+
+- Quad Stretch 股四头肌拉伸（站姿拉脚背）
+- Lunge Hip Flexor 箭步压髋（髋屈肌）
+- Calf Stretch 小腿后侧（墙上伸展）
+- Adductor Stretch 内收肌（青蛙式/侧弓步）
+- Glute/Piriformis 臀肌/梨状肌拉伸（鸽子式）
 
 ---
 

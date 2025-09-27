@@ -16,6 +16,12 @@
 | Scapular Pull-up 肩胛引体               | 8–10      | 肩胛下沉+后缩 |
 | Dead Hang + Thoracic Opener 悬垂+胸椎开 | 20–30s    | 放松上背，准备拉力 |
 
+→ 可改用以下“热身方案”（选一，6–8 分钟）：
+
+- 方案 A（肩胛控制）：肩胛引体 8–10 → 面拉 15–20 → 弹力带划船 12 → 悬垂 20s（循环 1–2 轮）
+- 方案 B（胸椎与后束）：胸椎滚轴 40s → 后束飞鸟 12–15 → 俯卧撑位 Y-T-W 各8 → 颈部等长侧屈 20s/侧
+- 方案 C（全身激活）：开合跳 30s → 俯身哑铃划船轻重量 10 → 弹力带下拉 12 → 悬垂 20s
+
 ---
 
 ## 2️⃣ Main Workout 主训练（Pull Strength）
@@ -37,12 +43,24 @@
 | Hammer Curl 锤式弯举               | 2 × 12      |
 | Pallof Press 抗旋拉力（核心）        | 10/side × 2–3 |
 
+核心可在本模块或收尾进行，从下列选 2–3 个做 2–3 轮：
+
+- Dead Bug 死虫式 10/side
+- Side Plank 侧桥 25–35s/side（可加抬腿）
+- Bird-dog 鸟狗 8–10/side（慢控制）
+- Hollow Hold 中空支撑 20–30s
+
 ---
 
 ## 4️⃣ Stretch & Cool Down 拉伸（8–10 min）
 
-- Lat/Rear Delt/Thoracic Stretch 背阔/后束/胸椎拉伸
-- 颈肩放松 30–45s × 1–2 轮
+每个 30–40s，选 3–4 个：
+
+- Lat Stretch 背阔肌拉伸（单臂按墙或吊环）
+- Rear Delt Stretch 三角肌后束拉伸（横抱臂）
+- Thoracic Extension 胸椎滚轴伸展
+- Sleeper Stretch 肩后囊拉伸（温和）
+- Upper Trap/Scalenes 颈肩拉伸（避免代偿）
 
 ---
 

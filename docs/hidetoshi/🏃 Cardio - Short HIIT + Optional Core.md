@@ -31,6 +31,12 @@
 | Jumping Jacks 开合跳            | 30s × 2 sets    | Full body activation                  |
 | Jog 慢跑              | 2–3 min        | Enter running rhythm, adjust breathing        |
 
+→ 跑步专项热身（选一，约 6–8 分钟）：
+
+- 方案 A（跑步技能）：快走 1′ → 慢跑 2′ → 高抬腿 20s → 后踢腿 20s → 侧向跨步 20s → 加速跑 2×20m
+- 方案 B（下肢活动）：动态腿摆 前后/侧向 各10/侧 → 弓步扭转 8/侧 → 小腿跟腱拉伸 30s/侧 → 慢跑 2′
+- 方案 C（全身）：开合跳 30s → 跳绳 60s → 慢跑 2′ → 跳跃式弓步 6/侧（轻度）
+
 ---
 
 ## 2️⃣ Main Workout 主训练：Short HIIT（12–16 min）
@@ -49,9 +55,13 @@
 
 从以下选择 1–2 个：
 
-- Plank 平板支撑：3 × 40s
-- Dead Bug 死虫式：3 × 10/side
-- Hanging Knee/Leg Raise 悬垂抬膝/抬腿：3 × 8–12（严格无摆动）
+从下列动作中选 2–3 个，做 2–3 轮：
+
+- Plank 平板支撑 35–45s
+- Side Plank 侧桥 25–35s/侧
+- Dead Bug 死虫式 10/侧
+- Hollow Hold 中空支撑 20–30s
+- Hanging Knee/Leg Raise 悬垂抬膝/抬腿 8–12（严格无摆动）
 
 ---
 
@@ -64,6 +74,8 @@ Each exercise hold 30–40s, 1–2 rounds:
 | Hip Flexor Stretch 箭步压髋      | Hip flexors 髋部前侧       | Abs tight, press forward, no arch   |
 | Hamstring Stretch 大腿后侧拉伸              | Hamstrings 股二头肌       | Seated/standing forward fold        |
 | Calf Stretch 小腿拉伸                  | Calves 腓肠肌         | Wall, one foot back, heel down      |
+
+可加选（每个 30–40s）：Glute Stretch 臀肌（鸽子式）、Quad Stretch 股四（站姿拉脚背）
 
 ---
 
